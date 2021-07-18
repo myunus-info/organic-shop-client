@@ -1,0 +1,20 @@
+.search-form #input-field {
+  height: 60px;
+  background-color: #f1f1f1;
+  border: none;
+  outline: 0;
+  padding-left: 25px;
+}
+.search-form .search-field {
+  width: 168px;
+  height: 60px;
+  background-color: #71ba58;
+  border: none;
+}
+.spinner-container {
+  width: 200px;
+  margin: 0 auto;
+}
+.spinner-container img {
+  width: 100%;
+}

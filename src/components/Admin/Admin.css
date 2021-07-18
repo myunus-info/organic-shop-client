@@ -1,0 +1,72 @@
+.active-tab {
+  background-color: #2d524a;
+}
+
+.content {
+  display: none;
+}
+
+.active-content {
+  display: block;
+}
+
+.admin-section {
+  background-color: #f4fcfb;
+}
+
+.admin-role {
+  background-color: #203d37;
+  height: 900px;
+  padding-top: 30px;
+}
+.admin-role li {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  line-height: 19px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 21px;
+  padding-left: 45px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.font-icon {
+  margin-right: 10px;
+}
+
+.admin-form {
+  background-color: #fff;
+  padding: 35px 15px;
+  border-radius: 10px;
+}
+
+.admin-form .input-field {
+  width: 450px;
+  border: none;
+  outline: 0;
+  border: 1px solid #c9c9c9;
+  height: 40px;
+  padding-left: 15px;
+}
+.admin-form p {
+  color: #000;
+  font-size: 16px;
+  font-weight: 800;
+  font-family: "Roboto", sans-serif;
+  line-height: 19px;
+}
+.admin-section h2 {
+  color: #0c0c0c;
+  font-size: 22px;
+  font-weight: 800;
+  font-family: "Roboto", sans-serif;
+  line-height: 26px;
+  margin-bottom: 25px;
+}
+
+.admin-section {
+  background-color: #f4fcfb;
+}

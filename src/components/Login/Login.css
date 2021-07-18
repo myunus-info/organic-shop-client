@@ -1,0 +1,29 @@
+.image-box img {
+  width: 30px;
+  height: 30px;
+}
+.login-area {
+  border: 1px solid #ababab;
+  padding-top: 35px;
+  padding-left: 30px;
+  border-radius: 5px;
+  padding-bottom: 30px;
+  margin-top: 50px;
+}
+
+.image-box {
+  border: 1px solid #c7c7c7;
+  margin-bottom: 30px;
+  margin-right: 30px;
+  width: 350px;
+  padding: 10px 21px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+.image-box span {
+  color: #000;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  line-height: 24px;
+}

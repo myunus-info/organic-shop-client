@@ -1,0 +1,39 @@
+.product-wrapper {
+  margin-bottom: 30px;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
+  padding: 50px 30px 30px;
+  border-radius: 10px;
+}
+.img-box {
+  width: 350px;
+  height: 350px;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 35px;
+}
+
+h3 {
+  color: #000;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+  line-height: 28px;
+}
+#price {
+  color: #71ba58;
+  font-size: 36px;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+  line-height: 42px;
+}
+#buy-now {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  line-height: 24px;
+  background-color: #71ba58;
+  border: none;
+  border-radius: 5px;
+  padding: 0 15px;
+}
